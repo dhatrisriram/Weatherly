@@ -3,7 +3,7 @@ import json
 import requests
 from datetime import datetime, timedelta
 
-API_KEY = "197d5d7bc6df4c5281654303250904"
+API_KEY = weather api key
 BASE_URL = "http://api.weatherapi.com/v1"
 
 SERVER = socket.gethostbyname(socket.gethostname())
