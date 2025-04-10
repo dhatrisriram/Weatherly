@@ -5,7 +5,7 @@ import pandas as pd
 from datetime import datetime
 
 # Server config
-SERVER_IP = "192.168.179.72"  # Change to your actual server IP
+SERVER_IP = server IP address 
 SERVER_PORT = 5555
 
 # Emoji mapping
