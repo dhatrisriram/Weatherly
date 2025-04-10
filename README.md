@@ -7,10 +7,11 @@ Weatherly is a socket-based client-server weather monitoring system that provide
 ## 📸 Features
 
 - 🔎 Enter any city to get accurate weather data
-- 📅 View current conditions, 7 days of past weather, and 7-day forecast
 - 🌐 Real-time client-server communication using Python sockets
-- 📈 Beautifully rendered charts and tables using Streamlit
 - 🌬️ See temperature, humidity, pressure, wind, UV index, visibility, and more
+- 📅 View current conditions, 7 days of past weather, and 7-day forecast
+- 🎨 Dynamic background color that changes based on current weather conditions
+- 📈 Beautifully rendered charts using Streamlit
 
 ---
 
@@ -21,7 +22,7 @@ Weatherly is a socket-based client-server weather monitoring system that provide
 | Backend   | Python, Socket, WeatherAPI |
 | Frontend  | Streamlit           |
 | Data      | JSON, WeatherAPI.com |
-| Charts    | Pandas, Streamlit line_chart |
+| Charts    | Pandas, Streamlit |
 
 ---
 ## 📦 How to Run Weatherly
